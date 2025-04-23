@@ -20,6 +20,7 @@ Steps
 
 
 
-Example below.
+Snapchot
+
 ![Picture 1](https://github.com/user-attachments/assets/39aa50e4-56ff-4c77-973c-2d7483ea55d6)
 
